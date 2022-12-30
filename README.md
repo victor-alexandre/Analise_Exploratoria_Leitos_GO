@@ -11,7 +11,7 @@ As etapas para o tratamento dos dados estão detalhadas no arquivo:
 Os resultados obtidos são:
  
  
-1)
+1) A visualização da evolução da quantidade de leitos SUS e NAO SUS do início de 2020 até novembro/2022:
 
 ![Evolução da quantidade de Leitos](https://media.discordapp.net/attachments/454743706306609152/1058173829022748824/xp2aAOSzJjsQAAAABJRU5ErkJggg.png)
 
