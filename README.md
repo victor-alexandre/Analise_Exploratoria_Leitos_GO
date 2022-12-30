@@ -4,7 +4,7 @@ Neste repositório eu apresentarei uma análise exploratória dos dados de Leito
 
 As ferramentas utilizadas foram o google colab (ambiente), python+pandas (tratamento dos dados) e o Tableau (visualização).
 
-As etapas para o tratamento dos dados estão detalhadas no arquivo:
+As etapas para o tratamento dos dados estão detalhadas no [arquivo .ipynb](https://github.com/victor-alexandre/Analise_Exploratoria_Leitos_GO/blob/main/Candidatura%20-%20Vaga%20de%20Cientista%20de%20Dados.ipynb)
 
 # Resultados
  
