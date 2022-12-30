@@ -1,4 +1,4 @@
-# Analise Exploratória -Leitos-Goiás
+# Analise Exploratória - Leitos de Goiás
 
 Neste repositório eu apresentarei uma análise exploratória dos dados de Leitos de Goiàs, retirados do [DataSUS](https://datasus.saude.gov.br/transferencia-de-arquivos/).
 
@@ -17,8 +17,10 @@ Os resultados obtidos são:
 
 
 2) Animação que destaca o declínio da capacidade hospitalar:
+
 https://youtu.be/z6OyziJFVvM
 
 Esse é um gráfico iterativo e também está disponível no Tableau Public: 
+
 https://public.tableau.com/views/EvolucaoLeitosGO/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
 
