@@ -11,10 +11,14 @@ As etapas para o tratamento dos dados estão detalhadas no arquivo:
 Os resultados obtidos são:
  
  
-1) ![Evolução da quantidade de Leitos](https://media.discordapp.net/attachments/454743706306609152/1058173829022748824/xp2aAOSzJjsQAAAABJRU5ErkJggg.png)
+1)
 
-2) Animação que destaca o declínio da capacidade hospitalar
+![Evolução da quantidade de Leitos](https://media.discordapp.net/attachments/454743706306609152/1058173829022748824/xp2aAOSzJjsQAAAABJRU5ErkJggg.png)
+
+
+2) Animação que destaca o declínio da capacidade hospitalar:
 https://youtu.be/z6OyziJFVvM
 
-Esse é um gráfico iterativo e também está disponível no Tableau Public:
+Esse é um gráfico iterativo e também está disponível no Tableau Public: 
+https://public.tableau.com/views/EvolucaoLeitosGO/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
 
