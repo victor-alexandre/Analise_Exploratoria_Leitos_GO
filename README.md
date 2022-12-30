@@ -20,7 +20,7 @@ Os resultados obtidos são:
 
 https://youtu.be/z6OyziJFVvM
 
-Esse é um gráfico iterativo e também está disponível no Tableau Public: 
+Esse é um gráfico iterativo que também está disponível no Tableau Public: 
 
 https://public.tableau.com/views/EvolucaoLeitosGO/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
 
